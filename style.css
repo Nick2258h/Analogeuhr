@@ -3,6 +3,7 @@
 # @Date: 19-11-2025 
 # @Last Modified: 19-11-2025 
 # @Description: Css for Analog Clock
+# @This video has helped me: https://www.youtube.com/watch?v=qBEBSD7rwuo
 */
 
 /* Reset basic styles */
@@ -18,8 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(black, white);
+    background: linear-gradient(rgb(96, 101, 203), white);
 }
 
 /* Main clock container */

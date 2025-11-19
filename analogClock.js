@@ -3,6 +3,7 @@
 # @Date: 19-11-2025 
 # @Last Modified: 19-11-2025 
 # @Description: JS for Analog Clock
+# @This video has helped me: https://www.youtube.com/watch?v=qBEBSD7rwuo
 */
 
 // Get clock hand elements
